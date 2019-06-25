@@ -1,5 +1,5 @@
 /******************************************************************************
-** Program Name: Final Project: Anoia
+** Program Name: Final Project
 ** Author:		Jamie Mott
 ** Date :		May 27, 2019
 ** Description : This is the class implementation file for Airport. An Airport
